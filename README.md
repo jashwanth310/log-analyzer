@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Tests](https://img.shields.io/badge/Tests-50_Passing-brightgreen)
+![Status](https://img.shields.io/badge/Status-Production_Ready-success)
+
 # Log Analyser
 
 Reads a web server log file and produces a useful summary — error rates, slow endpoints, top IPs, traffic by hour. Handles mixed timestamp formats, malformed lines, and JSON logs without crashing.
