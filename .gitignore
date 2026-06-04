@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+sample.log
+big.log
+*.log
+
+out.json
+report.json
+
+.pytest_cache/
+.vscode/
+.idea/
